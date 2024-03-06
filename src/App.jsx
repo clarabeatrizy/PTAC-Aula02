@@ -1,4 +1,8 @@
+import'..//App.css';
+
+
 import Header from "./Components/Header";
+
 export default function App() {
 
  
@@ -6,7 +10,9 @@ export default function App() {
     <main>
 
      <Header/>
-
+    <footer>
+      
+    </footer>
     </main>  
   );
 
