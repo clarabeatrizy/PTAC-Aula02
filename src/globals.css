@@ -1,8 +1,12 @@
-eader{
+header{
     height: 100px;
     background-color: aqua;
+    font: size 10pix;
+    color: rgb(152, 160, 164);
+
 }
 footer{
-    height: 100;
-    background-color: azure;
+    background-color:rgb(163, 239, 241);
+    color: rgb(51, 140, 217);
+    
 }
