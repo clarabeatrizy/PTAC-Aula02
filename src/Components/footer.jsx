@@ -1,8 +1,10 @@
-export default function Footer (){
-
-    return(
+export default function Footer() {
+    return (
         <footer>
-      <h1> PRIMEIRO </h1>
+            <h1> @joazinho</h1>
         </footer>
     );
 }
+
+
+
