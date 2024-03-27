@@ -17,17 +17,17 @@ export default function Main(){
 
     }
    ]);
-   };
+
    
    console.table(listaContatos);
 
 
-   ]
+   
  };
 
     return (
       <main>
-      <form action="">
+      <form action="" onSubmit={registrar} >
        <label htmlFor="nome">Nome:</label>
 
         <input
